@@ -1,5 +1,5 @@
 public class math {
-    public static int soma(int nu1, int nu2){
-        return nu1 + nu2;
+    public static int soma(int n1, int n2){
+        return n1 + n2;
     }
 }
